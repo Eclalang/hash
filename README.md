@@ -1,4 +1,4 @@
-# HASH LIBRARY FOR ECLA
+## HASH LIBRARY FOR ECLA
 
 # Candidate functions :
 
