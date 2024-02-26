@@ -1,5 +1,8 @@
 # Hash library
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Eclalang/hash)](https://goreportcard.com/report/github.com/Eclalang/hash)
+[![codecov](https://codecov.io/gh/Eclalang/hash/graph/badge.svg?token=YNCIYERVBO)](https://codecov.io/gh/Eclalang/hash)
+
 ## Candidate functions :
 
 |    Func Name    |              Prototype               |               Description               | Comments |
