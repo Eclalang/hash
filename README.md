@@ -1,6 +1,6 @@
-## HASH LIBRARY FOR ECLA
+# Hash library
 
-# Candidate functions :
+## Candidate functions :
 
 |    Func Name    |              Prototype               |               Description               | Comments |
 |:---------------:|:------------------------------------:|:---------------------------------------:|:--------:|
